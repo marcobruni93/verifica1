@@ -340,7 +340,7 @@
 
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="IT">
 <head>
     <meta charset="UTF-8">
     <title>nome+cognome</title>
@@ -387,7 +387,7 @@
     
     
 </div>
-<script>   <!-- blocco tasto destro del mouse -->
+<script>   
   function blocco_mousedx()
    { return(false); }
   document.oncontextmenu = blocco_mousedx;
