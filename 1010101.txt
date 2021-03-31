@@ -354,7 +354,7 @@
 
 
 
-<!DOCTYPE html>
+<IDOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -367,12 +367,12 @@
  <form>
 <label>
 Username:
- <input type="text"  name="username"  >
+ <input type="text"  name="usernema"  >
  </label>
  <div>
  <label>
  Password:
-<input type="password" name="password">
+<input type="password" name="pasword">
   </label>   
  </div>    
      
@@ -397,7 +397,7 @@ Username:
 </ul>
 </div>
 
-<script>   <!-- blocco tasto destro del mouse -->
+<script>   
   function blocco_mousedx()
    { return(false); }
   document.oncontextmenu = blocco_mousedx;
